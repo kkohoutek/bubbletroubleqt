@@ -1,2 +1,2 @@
 # bubbletroubleqt
-Bubble Trouble clone.
+School assignment 2017
